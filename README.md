@@ -9,7 +9,7 @@ some bad anticheat i decided to make (packet based/event based anticheat)
 
 Dependencies: 
 
-PacketEvents
+PacketEvents (https://github.com/retrooper/packetevents)
 
 Spigot API
 
