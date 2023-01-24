@@ -11,7 +11,7 @@ Dependencies:
 
 PacketEvents (https://github.com/retrooper/packetevents)
 
-Spigot API
+Spigot/Bukkit Server
 
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 
