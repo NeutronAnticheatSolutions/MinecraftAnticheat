@@ -23,7 +23,7 @@ Step (Vanilla)
 
 VClip
 
-BadPackets (haven't tested yet) (bed leaves packets only for rn)
+BadPackets (haven't tested yet) (bed leave packets for rn)
 
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 
