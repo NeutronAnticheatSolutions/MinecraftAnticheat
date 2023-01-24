@@ -19,6 +19,11 @@ Hacks/Exploits detected and blocked (rn):
 
 Speed
 
+Step (Vanilla)
+
+VClip
+
+BadPackets (haven't tested yet) (bed leaves packets only for rn)
 
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 
