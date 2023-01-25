@@ -27,12 +27,5 @@ BadPackets (haven't tested yet) (bed leave packets for rn)
 
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 
-Hacks/Exploits that will be detected later on (still being worked on):
-
+Hacks/Exploits that will be detected and blocked (when released, WIP checks)
 Fly
-
-Killaura
-
-GroundSpoof
-
-etc.
