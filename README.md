@@ -25,7 +25,10 @@ VClip
 
 BadPackets (haven't tested yet) (bed leave packets for rn)
 
+NoSlow
+
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 
 Hacks/Exploits that will be detected and blocked (when released, WIP checks)
+
 Fly
