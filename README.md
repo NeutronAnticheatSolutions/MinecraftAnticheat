@@ -25,7 +25,7 @@ VClip
 
 BadPackets (haven't tested yet) (bed leave packets for rn)
 
-NoSlow
+NoSlow (Vanilla)
 
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 
