@@ -4,7 +4,6 @@
 
 some bad anticheat i decided to make (packet based/event based anticheat)
 
-
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 
 Dependencies: 
@@ -23,9 +22,11 @@ Step (Vanilla)
 
 VClip
 
-BadPackets (haven't tested yet) (bed leave packets for rn)
+Reach
 
 NoSlow (Vanilla)
+
+GroundSpoof (kinda buggy but works ig)
 
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 
