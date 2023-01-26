@@ -4,6 +4,8 @@
 
 some bad anticheat i decided to make (packet based/event based anticheat)
 
+Jar Files can be found in the Releases
+
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 
 Dependencies: 
