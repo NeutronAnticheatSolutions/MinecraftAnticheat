@@ -28,6 +28,8 @@ Reach
 
 NoSlow (Vanilla)
 
+Sneak (Vanilla/Packet)
+
 GroundSpoof (kinda buggy but works ig)
 
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
