@@ -16,26 +16,4 @@ Spigot/Bukkit Server
 
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 
-Hacks/Exploits detected and blocked (rn):
-
-Speed
-
-Step (Vanilla)
-
-VClip
-
-Reach
-
-NoSlow (Vanilla)
-
-Sneak (Vanilla/Packet)
-
-GroundSpoof (kinda buggy but works ig)
-
-Spider
-
-/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
-
-Hacks/Exploits that will be detected and blocked (when released, WIP checks)
-
-Fly
+More information can be found on spigot
