@@ -17,3 +17,4 @@ Spigot/Bukkit Server
 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 
 More information can be found on spigot
+https://www.spigotmc.org/resources/neutron-anticheat-solution.107823/
