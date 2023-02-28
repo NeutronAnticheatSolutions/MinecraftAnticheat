@@ -16,4 +16,4 @@ Spigot/Bukkit Server
 
 Currently Working On:
 
-Recoding the entire anti-cheat to make it better and detect more hacks but it will paid paid when it releases.
+Recoding the entire anti-cheat to make it better and detect more hacks but it will paid when it releases.
